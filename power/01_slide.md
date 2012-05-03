@@ -16,25 +16,25 @@
 
 !SLIDE 
 
-## UPS ##
+# UPS 
 
 !SLIDE
 
-## Generator ##
+# Generator
 
 !SLIDE 
 
-# Smaller Physical Suffs #
+# Smaller Physical Suffs
 
-!SLIDE 
+!SLIDE center
 
-##  Plug Types ##
+# Plug Types
 
 ![plugs](plugs.jpg)
 
 !SLIDE bullets incremental
 
-## PDU and CDUs ##
+# PDU and CDUs
 
 * Essentially power strips
 * May be smart aka IP connected
@@ -42,11 +42,24 @@
 
 !SLIDE
 
-## Breakers ##
+# Other Infrastructure
+
+## Breakers
 
 aka The Panel
 
-## Whips/Runs ##
+## Whips/Runs
 
 These are the actual plugs that run out to the racks
 
+!SLIDE
+
+# The Numbers
+
+!SLIDE
+
+# 80% is 100%
+
+!SLIDE 
+
+# A = W/V
