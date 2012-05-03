@@ -1,1 +1,13 @@
-{ "name": "My Preso", "sections": [ {"section":"one"} ]}
+{ "name": "DC Ops", "sections": 
+  [ 
+    {"section":"intro"}
+    {"section":"facility"}
+    {"section":"power"}
+    {"section":"cooling"}
+    {"section":"cabling"}
+    {"section":"networking"}
+    {"section":"servers"}
+    {"section":"console"}
+    {"section":"gonewrong"}
+  ]
+}
